@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbca888b.css",
+    "main.js": "/static/js/main.dbe05b26.js",
+    "static/media/budget-and-expenses-concept-free-vector.jpg": "/static/media/budget-and-expenses-concept-free-vector.42aa91ed1d4695af6f35.jpg",
+    "index.html": "/index.html",
+    "main.bbca888b.css.map": "/static/css/main.bbca888b.css.map",
+    "main.dbe05b26.js.map": "/static/js/main.dbe05b26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbca888b.css",
+    "static/js/main.dbe05b26.js"
+  ]
+}
